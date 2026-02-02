@@ -24,7 +24,7 @@ wheels/
 *.egg
 
 # PyInstaller
-*.spec
+# *.spec (we keep sims4_mod_creator.spec in the repo)
 
 # Generated mods
 generated_mods/
