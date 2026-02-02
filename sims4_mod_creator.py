@@ -159,8 +159,8 @@ class Sims4ModCreator:
             if line.strip().startswith('```'):
                 in_code_block = not in_code_block
                 continue
-            if in_code_block or not line.strip().startswith('```'):
-                cleaned_lines.append(line)
+            # Only include lines that are not code fence markers
+            cleaned_lines.append(line)
         
         return '\n'.join(cleaned_lines)
     
