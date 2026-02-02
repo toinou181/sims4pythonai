@@ -2,6 +2,12 @@
 
 Un programme Python puissant pour créer des mods pour Les Sims 4 en utilisant l'intelligence artificielle de Google (AI Studio et Vertex AI).
 
+## 📚 Documentation Rapide
+
+- **[🚀 Démarrage Rapide (5 min)](QUICKSTART.md)** - Commencez immédiatement
+- **[📖 Guide d'Utilisation Complet](USAGE_GUIDE.md)** - Documentation détaillée avec exemples
+- **[🎬 Démo sans API](demo.py)** - Testez sans clé API
+
 ## ✨ Fonctionnalités
 
 - 🤖 **Deux moteurs d'IA** : Google AI Studio (Gemini) et Google Vertex AI
